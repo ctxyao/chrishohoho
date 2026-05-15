@@ -1,6 +1,6 @@
 # Yucheng Yao
 
-Email: chris.yao.illini [at] gmail [dot] com
+Email: chris.yao.illini@gmail.com
 
 Affiliation: Microsoft
 
