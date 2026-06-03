@@ -12,8 +12,10 @@ Health Evaluation for AI Workflows.
 - CtxGov main repo: https://github.com/ctxgov/ctxgov
 - CtxGov project page: https://ctxgov.github.io/ctxgov/
 - CtxGov v0.6.3 release: https://github.com/ctxgov/ctxgov/releases/tag/v0.6.3
-- Agent Context Health Eval v0.2 scaffold: https://github.com/ctxgov/agent-context-evals
-- Agent Context Health Eval v0.2.0 release: https://github.com/ctxgov/agent-context-evals/releases/tag/v0.2.0
+- Agent Context Health Eval v0.3 artifact: https://github.com/ctxgov/agent-context-evals
+- Agent Context Health Eval v0.3.0 release: https://github.com/ctxgov/agent-context-evals/releases/tag/v0.3.0
+- v0.3 readiness report: https://github.com/ctxgov/agent-context-evals/blob/main/reports/v0.3-readiness.md
+- 60-second demo GIF: https://raw.githubusercontent.com/ctxgov/agent-context-evals/main/demo/60-second-demo.gif
 - Technical report draft: https://github.com/ctxgov/agent-context-evals/blob/main/reports/technical-report.md
 - Research engineering hiring packet: https://github.com/ctxgov/ctxgov/blob/main/docs/research-engineering-hiring-packet.md
 
@@ -29,5 +31,6 @@ Health Evaluation for AI Workflows.
 
 CtxGov is not a security scanner, universal benchmark, provider compatibility
 matrix, hosted runtime, or automatic remediation agent. Current eval materials
-are public v0.2 scaffold data until independently reviewed trace-derived
-labels, hard negatives, and administered holdout results exist.
+are public v0.2 scaffold data plus a v0.3 review-ready packet until
+independently reviewed trace-derived labels, hard negatives, and administered
+holdout results exist.
